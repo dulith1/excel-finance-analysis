@@ -68,14 +68,12 @@ The project includes a structured loan-level dataset used for:
 - KPI calculations  
 - Pivot-based analysis  
 - Filtering and segmentation  
-
-This dataset supports analysis but is **not presented as a dashboard**.
-
 ---
 
 ## 📸 Screenshots
-
-_Add screenshots of the Summary and Overview dashboards here._
+<img width="1657" height="838" alt="BankLoan Summary" src="https://github.com/user-attachments/assets/da52e10c-4bbf-4c2a-849c-6cbc778e5d50" />
+<img width="1660" height="836" alt="BankLoan Overview" src="https://github.com/user-attachments/assets/f0b29523-db3a-473b-baf1-4363f22f3bc9" />
+<img width="1238" height="1022" alt="BankLoan Design" src="https://github.com/user-attachments/assets/02c87a6a-c91b-4aed-bd87-a51611a3d331" />
 
 ---
 
@@ -87,11 +85,7 @@ All data used in this project is **sample or anonymized** and intended solely fo
 
 ## 👤 Author
 
-**[Your Name]**  
+**[Dulith]**  
 Data Analyst | Excel | Business Intelligence | Financial Analysis
 
 ---
-
-## 🔗 Repository Link
-
-https://github.com/YOUR_USERNAME/bank-loan-analysis
